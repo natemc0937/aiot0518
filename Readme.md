@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5 (complete)
+# natemc0937's Homework #5 (complete)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -11,10 +11,10 @@
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
   * 快捷鍵 ctrl+' ==> 叫出終端機 
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
-   * C:> git config --global user.name "Huan Chen"
-   * C:> git config --global user.email huanchen1107@gmail.com
+   * C:> git config --global user.name "natemc0937"
+   * C:> git config --global user.email natemc0937@gmail.com
    * C:> git commit -m "first commit"
-   * C:> git remote add origin git@github.com:huanchen1107/aiot0524.git
+   * C:> git remote add origin git@github.com:natemc0937/aiot0524.git
 
 '''text
   --- below is used to a add a new remote:
